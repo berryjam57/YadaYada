@@ -1,7 +1,6 @@
 # Events.md
 
-ThursdayJanuary 1
-New Year's Day
+ThursdayJanuary 1 New Year's Day
 MondayJanuary 19
 Martin Luther King, Jr. Day
 MondayFebruary 16*
